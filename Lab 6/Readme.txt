@@ -1,0 +1,1 @@
+This the solution of Lab 6
